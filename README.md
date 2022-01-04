@@ -16,7 +16,7 @@ Also you can instead use one of these playlists:
 
 - `https://fiwfi.com/iptv-org/index.m3u` (grouped by country)
 - `https://fiwfi.com/iptv-org/index.m3u` (grouped by category)
-- `https://iptv-org.github.io/iptv/index.language.m3u` (grouped by language)
+- `https://fiwfi.com/iptv-org/index.language.m3u` (grouped by language)
 - `https://iptv-org.github.io/iptv/index.nsfw.m3u` (includes adult channels)
 
 Or select one of the playlists from the list below.
